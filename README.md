@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi Viewer 👋, I'm <b>Nᴀᴠɪɴ Kᴜᴍᴀʀ</b></h1>
+<h3 align="center">A Student Who Started Learning Android Development </h3>
 
-<!--
-**Navin136/Navin136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navin136&label=Profile%20views&color=0e75b6&style=flat" alt="navin136" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available [here](https://github.com/Navin136?tab=repositories)
+
+- 📫 How to reach me: [Telegram](https://telegram.me/Navin136)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navin136&show_icons=true&locale=en" alt="navin136" /></p>
