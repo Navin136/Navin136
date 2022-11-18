@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin136&label=Profile%20views&color=0e75b6&style=flat" alt="navin136" /> </p>
 
-- 🌱 I’m currently learning **C**
+
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Navin136?tab=repositories)
 
